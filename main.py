@@ -1,1 +1,1 @@
-# setup for snakegame
+# setup for snakegame files
